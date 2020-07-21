@@ -1,0 +1,16 @@
+2020-07-21 13:42:16 INFO  Estimator:18 - estimateCost method is running
+2020-07-21 13:42:16 INFO  Estimator:35 - AboveStandardOption without Automation
+2020-07-21 13:42:16 INFO  Estimator:18 - estimateCost method is running
+2020-07-21 13:42:16 INFO  Estimator:51 - HighStandardOption with Automation
+2020-07-21 13:42:16 INFO  Estimator:18 - estimateCost method is running
+2020-07-21 13:42:16 ERROR Estimator:39 - Invalid option 'Automated' is passed for AboveStandardOption returning -1
+2020-07-21 13:42:16 INFO  Estimator:18 - estimateCost method is running
+2020-07-21 13:42:16 INFO  Estimator:46 - HighStandardOption without Automation
+2020-07-21 13:42:16 INFO  Estimator:18 - estimateCost method is running
+2020-07-21 13:42:16 INFO  Estimator:23 - StandardOption without Automation
+2020-07-21 13:42:16 INFO  Estimator:18 - estimateCost method is running
+2020-07-21 13:42:16 ERROR Estimator:27 - Invalid option 'Automated' is passed for StandardOption returning -1
+2020-07-21 13:42:16 INFO  Estimator:18 - estimateCost method is running
+2020-07-21 13:42:16 ERROR Estimator:58 - Invalid option is passed for Estimator returning -1
+2020-07-21 13:42:16 INFO  CompoundInterest:11 - compoundIntest Method is running
+2020-07-21 13:42:17 INFO  CompoundInterest:12 - simpleIntest Method is running
